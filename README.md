@@ -1,7 +1,8 @@
-### Hola Soy Rafa :smiley:
-### Bienvenidos a mi perfil 
-:smiley: :v: Mis pasatiempos favoritos son ver series y peliculas, 
-tambien me gusta mucho aprender cosas nuevas 
+## _Hola Soy Rafa :smiley:_
+### Bienvenidos a mi perfil
+## Pasatiempos
+- Ver peliculas y series
+- Jugar videojuegos
 
 ![programando](https://user-images.githubusercontent.com/71298323/131203495-28290cf4-bff7-4a8a-83d0-a747bc327dac.gif)
 
