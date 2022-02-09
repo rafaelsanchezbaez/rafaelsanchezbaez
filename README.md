@@ -4,7 +4,7 @@
 - Ver peliculas y series.
 - Escuchar musica.
 - Provar cosas nuevas.
-- Jugar con mi gata
+- Jugar con mi gata mavis
 
 
 
